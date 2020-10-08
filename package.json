@@ -1,0 +1,35 @@
+{
+	"name": "react-native-android-contact-hint",
+	"version": "1.0.0",
+	"description": "## Getting started",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"tags": [
+		"react",
+		"react-native",
+		"android"
+	],
+	"keywords": [
+		"react",
+		"react-native",
+		"mobile",
+		"mobile-hint",
+		"android",
+		"contact-suggestions"
+	],
+	"author": "Shubham Sharma",
+	"license": "ISC",
+	"peerDependencies": {
+		"react-native": "^0.41.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/developer-shubham101/react-native-android-contact-hint.git"
+	},
+	"bugs": {
+		"url": "https://github.com/developer-shubham101/react-native-android-contact-hint/issues"
+	},
+	"homepage": "https://github.com/developer-shubham101/react-native-android-contact-hint#readme"
+}
