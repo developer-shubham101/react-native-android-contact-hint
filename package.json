@@ -1,6 +1,6 @@
 {
 	"name": "react-native-android-contact-hint",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "It shell show mobile no which you have in Andorid device",
 	"main": "index.js",
 	"scripts": {
