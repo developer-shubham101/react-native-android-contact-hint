@@ -1,7 +1,7 @@
 {
 	"name": "react-native-android-contact-hint",
 	"version": "1.0.1",
-	"description": "## Getting started",
+	"description": "It shell show mobile no which you have in Andorid device",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

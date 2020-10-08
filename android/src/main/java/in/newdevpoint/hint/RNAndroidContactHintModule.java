@@ -72,7 +72,7 @@ public class RNAndroidContactHintModule extends ReactContextBaseJavaModule imple
         }
     }
 
-    @Override
+
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         onActivityResultFinal(requestCode, resultCode, data);
     }
